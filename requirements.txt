@@ -3,15 +3,21 @@ black==20.8b1
 boto3==1.17.2
 botocore==1.20.2
 click==7.1.2
+dj-database-url==0.5.0
 Django==3.1.5
 django-allauth==0.44.0
 django-countries==7.0
 django-crispy-forms==1.10.0
+<<<<<<< HEAD
 django-storages==1.11.1
 jmespath==0.10.0
+=======
+gunicorn==20.0.4
+>>>>>>> 232126972de80620aea00b956f4a889c7a6d1016
 oauthlib==3.1.0
 pathspec==0.8.1
 Pillow==8.1.0
+psycopg2-binary==2.8.6
 PyJWT==2.0.0
 python3-openid==3.2.0
 pytz==2020.5
