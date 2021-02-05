@@ -49,12 +49,8 @@ INSTALLED_APPS = [
     "checkout",
     "profiles",
     # Other
-<<<<<<< HEAD
-    'crispy_forms',
-    'storages',
-=======
     "crispy_forms",
->>>>>>> 232126972de80620aea00b956f4a889c7a6d1016
+    "storages",
 ]
 
 MIDDLEWARE = [
