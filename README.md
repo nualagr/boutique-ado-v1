@@ -18,7 +18,3 @@ Boutique Ado is a fictitious e-commerce website built with the Django Python web
 * [Django](https://www.djangoproject.com/)
 * [Postgres](https://www.postgresql.org/) 
 * [Stripe](https://stripe.com/en-ie)
-
-<br>
-
-Click <a href="https://boutique-ado-django-store.herokuapp.com/">here</a> to visit the site.
